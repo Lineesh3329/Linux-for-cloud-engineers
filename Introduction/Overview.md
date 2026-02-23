@@ -9,7 +9,7 @@ Popular Linux Distributions (Distros)
 -------------------------------------
     Ubuntu - User-friendly, perfect for beginners
     Debain - Stable, great for servers
-    Fedora- Cutting-edge by Redhat
-    CentOS/Rocky/AlmaLinux- Enterprise-level
-    Arch Linux- Minimalist, highly customizable
-    Kali Linux- Cybersecurity testing
+    Fedora - Cutting-edge by Redhat
+    CentOS/Rocky/AlmaLinux - Enterprise-level
+    Arch Linux - Minimalist, highly customizable
+    Kali Linux - Cybersecurity testing
