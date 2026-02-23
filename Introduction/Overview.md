@@ -1,6 +1,15 @@
-## Introduction to Linux
-------------------------
+Introduction to Linux
+---------------------
 Linux is an open-source operating system widely used in servers and cloud environments.
 It is known for its stability, security, and strong command-line capabilities.
 Most modern cloud platforms like AWS run on Linux-based servers, which makes Linux an essential skill for Cloud and DevOps engineers.
 Understanding Linux helps in managing servers, troubleshooting issues, monitoring processes, and handling real-world production systems.
+
+Popular Linux Distributions (Distros)
+-------------------------------------
+    Ubuntu - User-friendly, perfect for beginners
+    Debain - Stable, great for servers
+    Fedora- Cutting-edge by Redhat
+    CentOS/Rocky/AlmaLinux- Enterprise-level
+    Arch Linux- Minimalist, highly customizable
+    Kali Linux- Cybersecurity testing
