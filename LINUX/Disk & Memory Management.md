@@ -1,0 +1,20 @@
+## Disk & Memory Management
+
+Disk and memory management in Linux helps monitor storage space and system memory usage.
+
+These commands are important to identify disk full issues, high memory usage, and server performance problems.
+
+They are commonly used in server administration and cloud environments.
+
+### Commands
+
+    df -h            - Shows disk space usage, size etc...
+    du -sh folder    - Shows folder size
+    free -g          - Shows Ram in GB
+    free -m          - Show memory usage in MB
+    top              - View memory and CPU usage
+    lsblk            - Shows disk partitions
+
+Disk and memory monitoring is essential for maintaining server health.
+
+Understanding these commands helps in preventing system failures and performance issues.
