@@ -1,4 +1,4 @@
-# Linux Learning Documentation 🐧
+# Linux Foundations -Documentation 🐧
 
 This repository contains my structured Linux learning notes focused on server administration and cloud environments.
 
