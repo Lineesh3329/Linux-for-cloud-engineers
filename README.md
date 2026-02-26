@@ -40,8 +40,3 @@ The goal of this repository is to build a strong Linux foundation required for C
 To gain practical Linux knowledge required for managing servers in cloud environments like AWS.
 
 ---
-
-## 👨‍💻 Author
-
-Lineesh  
-Aspiring Cloud Engineer 🚀
